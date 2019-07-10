@@ -9,6 +9,7 @@ public class Test1 {
     }
 
     public String doA(){
+        //啦啦啦啦
         String s = UUID.randomUUID().toString();
         //修改啊
         System.out.println(s+"|"+s.length());
