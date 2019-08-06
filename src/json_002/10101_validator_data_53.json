@@ -1,0 +1,14 @@
+[
+  {
+    "comment": " 您未进行简易计税备案，附表一的“二、简易计税方法计税”部分（即第8、9a、9b、11、12、14、15行）的第9、10列必须为0，请核实！",
+    "reportId": "T002",
+    "expression": "errorList=[];\nforeach(entry:T002B.entrySet()){\n\tbody=entry.value;\n\tif(getHdParam(\"JYZSBZ\")==0){\n\t\tif(body.itemLineChar==\"8\" || body.itemLineChar==\"9a\" || body.itemLineChar==\"9b\" || body.itemLineChar==\"11\" || \n\t\tbody.itemLineChar==\"12\" || body.itemLineChar==\"14\" || body.itemLineChar==\"15\" ){\n\t\t\tif(body.totalSalesAmt!=0B || body.totalOutputTaxAmt!=0B){\n\t\t\t error= new cn.com.servyou.xqy.taxcore.core.declare.single.common.domain.ConfigErrorMessage();\n\t\t\t error.message = \\\"您未进行简易计税备案，附表一的“二、简易计税方法计税”部分（即第8、9a、9b、11、12、14、15行）的第9、10列必须为0，请核实！\\\"; \n\t\t\t error.level = 1; \n\t\t\t error.code=\\\"\\\"; \n\t\t\t errorList.add(error);\n\t\t\t break;\n\t\t\t}\n\t\t}\n\t}\n}return errorList;" ,
+    "area": "130000"
+  },
+  {
+    "comment": " 您未进行简易计税备案，附表一的“二、简易计税方法计税”部分（即第8、9a、9b、10、11、12、14、15行）的第9、10列必须为0，请核实！",
+    "reportId": "T002",
+    "expression": "errorList=[];\nforeach(entry:T002B.entrySet()){\n\tbody=entry.value;\n\tif(getHdParam(\"JYZSBZ\")==0){\n\t\tif(body.itemLineChar==\"8\" || body.itemLineChar==\"9a\" || body.itemLineChar==\"9b\" || body.itemLineChar==\"10\" || \n\t\tbody.itemLineChar==\"11\" || body.itemLineChar==\"12\" || body.itemLineChar==\"14\" || body.itemLineChar==\"15\" ){\n\t\t\tif(body.totalSalesAmt!=0B || body.totalOutputTaxAmt!=0B){\n\t\t\t error= new cn.com.servyou.xqy.taxcore.core.declare.single.common.domain.ConfigErrorMessage();\n\t\t\t error.message = \\\"您未进行简易计税备案，附表一的“二、简易计税方法计税”部分（即第8、9a、9b、10、11、12、14、15行）的第9、10列必须为0，请核实！\\\"; \n\t\t\t error.level = 1; \n\t\t\t error.code=\\\"\\\"; \n\t\t\t errorList.add(error);\n\t\t\t break;\n\t\t\t}\n\t\t}\n\t}\n}return errorList;",
+    "area": "新疆"
+  }
+]

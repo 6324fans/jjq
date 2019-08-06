@@ -1,0 +1,197 @@
+[
+  {
+    "comment": " 第6行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_60.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第6行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第6行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_70.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第6行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第6行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_60.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第6行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第6行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_70.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第6行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+
+  {
+    "comment": " 第7行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_70.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第7行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第7行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_80.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第7行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第7行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_70.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第7行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第7行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_80.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第7行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+
+  {
+    "comment": " 第14行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_170.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第14行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第14行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_180.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第14行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第14行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_170.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第14行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第14行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_180.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第14行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+
+  {
+    "comment": " 第15行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_180.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第15行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第15行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_190.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第15行第9列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第15行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1156_180.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第15行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  },
+  {
+    "comment": " 第15行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"JZJTBZ\")==\"N\" && T002.1081_190.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "第15行第10列填有非0.00数据，请您先去税局做增值税即征即退备案！"
+    }
+  }
+]

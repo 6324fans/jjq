@@ -1,0 +1,220 @@
+[
+  {
+    "comment": " 附表一第2栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_20.totalPriceTaxAmt<0B &&(T002B.1156_20.serviceActuallyOffAmt!=0B || T002B.1156_20.serviceActuallyOffAmt>T002B.1156_20.totalPriceTaxAmt)) || (T002B.1156_20.totalPriceTaxAmt>=0B && T002B.1156_20.serviceActuallyOffAmt>T002B.1156_20.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第2栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第4栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_40.totalPriceTaxAmt<0B &&(T002B.1156_40.serviceActuallyOffAmt!=0B || T002B.1156_40.serviceActuallyOffAmt>T002B.1156_40.totalPriceTaxAmt)) || (T002B.1156_40.totalPriceTaxAmt>=0B && T002B.1156_40.serviceActuallyOffAmt>T002B.1156_40.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第4栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第5栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_50.totalPriceTaxAmt<0B &&(T002B.1156_50.serviceActuallyOffAmt!=0B || T002B.1156_50.serviceActuallyOffAmt>T002B.1156_50.totalPriceTaxAmt)) || (T002B.1156_50.totalPriceTaxAmt>=0B && T002B.1156_50.serviceActuallyOffAmt>T002B.1156_50.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第5栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第7栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_70.totalPriceTaxAmt<0B &&(T002B.1156_70.serviceActuallyOffAmt!=0B || T002B.1156_70.serviceActuallyOffAmt>T002B.1156_70.totalPriceTaxAmt)) || (T002B.1156_70.totalPriceTaxAmt>=0B && T002B.1156_70.serviceActuallyOffAmt>T002B.1156_70.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第7栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第9b栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_100.totalPriceTaxAmt<0B &&(T002B.1156_100.serviceActuallyOffAmt!=0B || T002B.1156_100.serviceActuallyOffAmt>T002B.1156_100.totalPriceTaxAmt)) || (T002B.1156_100.totalPriceTaxAmt>=0B && T002B.1156_100.serviceActuallyOffAmt>T002B.1156_100.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第9b栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第12栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_130.totalPriceTaxAmt<0B &&(T002B.1156_130.serviceActuallyOffAmt!=0B || T002B.1156_130.serviceActuallyOffAmt>T002B.1156_130.totalPriceTaxAmt)) || (T002B.1156_130.totalPriceTaxAmt>=0B && T002B.1156_130.serviceActuallyOffAmt>T002B.1156_130.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第12栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第15栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_180.totalPriceTaxAmt<0B &&(T002B.1156_180.serviceActuallyOffAmt!=0B || T002B.1156_180.serviceActuallyOffAmt>T002B.1156_180.totalPriceTaxAmt)) || (T002B.1156_180.totalPriceTaxAmt>=0B && T002B.1156_180.serviceActuallyOffAmt>T002B.1156_180.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第15栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第17栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_200.totalPriceTaxAmt<0B &&(T002B.1156_200.serviceActuallyOffAmt!=0B || T002B.1156_200.serviceActuallyOffAmt>T002B.1156_200.totalPriceTaxAmt)) || (T002B.1156_200.totalPriceTaxAmt>=0B && T002B.1156_200.serviceActuallyOffAmt>T002B.1156_200.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第17栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第19栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "(T002B.1156_220.totalPriceTaxAmt<0B &&(T002B.1156_220.serviceActuallyOffAmt!=0B || T002B.1156_220.serviceActuallyOffAmt>T002B.1156_220.totalPriceTaxAmt)) || (T002B.1156_220.totalPriceTaxAmt>=0B && T002B.1156_220.serviceActuallyOffAmt>T002B.1156_220.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第19栏第12列必须≤第11列。"
+    }
+  },
+
+
+  {
+    "comment": " 附表一第2栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_20.totalPriceTaxAmt<0B &&(T002B.1081_20.serviceActuallyOffAmt!=0B || T002B.1081_20.serviceActuallyOffAmt>T002B.1081_20.totalPriceTaxAmt)) || (T002B.1081_20.totalPriceTaxAmt>=0B && T002B.1081_20.serviceActuallyOffAmt>T002B.1081_20.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第2栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第4栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_50.totalPriceTaxAmt<0B &&(T002B.1081_50.serviceActuallyOffAmt!=0B || T002B.1081_50.serviceActuallyOffAmt>T002B.1081_50.totalPriceTaxAmt)) || (T002B.1081_50.totalPriceTaxAmt>=0B && T002B.1081_50.serviceActuallyOffAmt>T002B.1081_50.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第4栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第5栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_60.totalPriceTaxAmt<0B &&(T002B.1081_60.serviceActuallyOffAmt!=0B || T002B.1081_60.serviceActuallyOffAmt>T002B.1081_60.totalPriceTaxAmt)) || (T002B.1081_60.totalPriceTaxAmt>=0B && T002B.1081_60.serviceActuallyOffAmt>T002B.1081_60.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第5栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第7栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_80.totalPriceTaxAmt<0B &&(T002B.1081_80.serviceActuallyOffAmt!=0B || T002B.1081_80.serviceActuallyOffAmt>T002B.1081_80.totalPriceTaxAmt)) || (T002B.1081_80.totalPriceTaxAmt>=0B && T002B.1081_80.serviceActuallyOffAmt>T002B.1081_80.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第7栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第9b栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_110.totalPriceTaxAmt<0B &&(T002B.1081_110.serviceActuallyOffAmt!=0B || T002B.1081_110.serviceActuallyOffAmt>T002B.1081_110.totalPriceTaxAmt)) || (T002B.1081_110.totalPriceTaxAmt>=0B && T002B.1081_110.serviceActuallyOffAmt>T002B.1081_110.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第9b栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第12栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_140.totalPriceTaxAmt<0B &&(T002B.1081_140.serviceActuallyOffAmt!=0B || T002B.1081_140.serviceActuallyOffAmt>T002B.1081_140.totalPriceTaxAmt)) || (T002B.1081_140.totalPriceTaxAmt>=0B && T002B.1081_140.serviceActuallyOffAmt>T002B.1081_140.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第12栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第15栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_190.totalPriceTaxAmt<0B &&(T002B.1081_190.serviceActuallyOffAmt!=0B || T002B.1081_190.serviceActuallyOffAmt>T002B.1081_190.totalPriceTaxAmt)) || (T002B.1081_190.totalPriceTaxAmt>=0B && T002B.1081_190.serviceActuallyOffAmt>T002B.1081_190.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第15栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第17栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_210.totalPriceTaxAmt<0B &&(T002B.1081_210.serviceActuallyOffAmt!=0B || T002B.1081_210.serviceActuallyOffAmt>T002B.1081_210.totalPriceTaxAmt)) || (T002B.1081_210.totalPriceTaxAmt>=0B && T002B.1081_210.serviceActuallyOffAmt>T002B.1081_210.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第17栏第12列必须≤第11列。"
+    }
+  },
+  {
+    "comment": " 附表一第19栏第12列必须≤第11列。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "(T002B.1081_230.totalPriceTaxAmt<0B &&(T002B.1081_230.serviceActuallyOffAmt!=0B || T002B.1081_230.serviceActuallyOffAmt>T002B.1081_230.totalPriceTaxAmt)) || (T002B.1081_230.totalPriceTaxAmt>=0B && T002B.1081_230.serviceActuallyOffAmt>T002B.1081_230.totalPriceTaxAmt)",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第19栏第12列必须≤第11列。"
+    }
+  }
+]

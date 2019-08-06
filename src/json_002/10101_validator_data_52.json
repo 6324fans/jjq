@@ -1,0 +1,437 @@
+[
+  {
+    "comment": " 您为应税服务纳税人，第1行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_10.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第1行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第1行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_10.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第1行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第3行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_30.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第3行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第3行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_30.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第3行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第6行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_60.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第6行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第6行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_70.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第6行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第8行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_80.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第8行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第8行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_90.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第8行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第9a行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_90.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第9a行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第9a行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_100.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第9a行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第11行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_120.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第11行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第11行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_130.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第11行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第14行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_170.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第14行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第14行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_180.totalOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第14行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+
+  {
+    "comment": " 您为应税服务纳税人，第16行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_190.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第16行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第16行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_200.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第16行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第18行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1156_210.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第18行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为应税服务纳税人，第18行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"02\" && T002B.1081_220.totalSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为应税服务纳税人，第18行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+
+  {
+    "comment": " 您为货物劳务纳税人，第2行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_20.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第2行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第2行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_20.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第2行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第4行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_40.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第4行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第4行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_50.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第4行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第5行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_50.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第5行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第5行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_60.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第5行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第7行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_70.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第7行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第7行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_80.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第7行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第9b行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_100.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第9b行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第9b行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_110.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第9b行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第12行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_130.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第12行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第12行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_140.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第12行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第15行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_180.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第15行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第15行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_190.afterOffOutputTaxAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第15行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+
+  {
+    "comment": " 您为货物劳务纳税人，第17行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_200.afterOffSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第17行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第17行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_210.afterOffSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第17行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第19行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1156_220.afterOffSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第19行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  },
+  {
+    "comment": " 您为货物劳务纳税人，第19行不允许填写数值，请先做相应的税（费）种认定。",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "getHdParam(\"SZLBDM\")==\"01\" && T002B.1081_230.afterOffSalesAmt!=0B",
+    "area": "130000,新疆",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "您为货物劳务纳税人，第19行不允许填写数值，请先做相应的税（费）种认定。"
+    }
+  }
+]

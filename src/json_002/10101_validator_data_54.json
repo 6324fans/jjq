@@ -1,0 +1,8 @@
+[
+  {
+    "comment": " 您在“纳税检查调整”填有数据，根据税务机关规定，须到办税大厅办理申报，请检查。",
+    "reportId": "T002",
+    "expression": "errorList=[];\nforeach(entry:T002B.entrySet()){\n\tbody=entry.value;\n\tif(body.itemLine>=1 && body.itemLine<=5){\n\t\tif(body.taxCheckAdjustSalesAmt!=0B || body.taxCheckAdjustTaxAmt!=0B){\n\t\t\terror= new cn.com.servyou.xqy.taxcore.core.declare.single.common.domain.ConfigErrorMessage();\n\t\t\terror.message = \\\"您在“纳税检查调整”填有数据，根据税务机关规定，须到办税大厅办理申报，请检查。\\\"; \n\t\t\terror.level = 1; \n\t\t\terror.code=\\\"\\\"; \n\t\t\terrorList.add(error);\n\t\t\tbreak;\n\t\t}\n\t}\n}return errorList;",
+    "area": "新疆"
+  }
+]

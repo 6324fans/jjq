@@ -1,0 +1,172 @@
+[
+  {
+    "comment": " 附表一第2栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "T002B.1156_20.serviceActuallyOffAmt==0B && T002B.1156_20.totalOutputTaxAmt!=T002B.1156_20.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第2栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第4栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "T002B.1156_40.serviceActuallyOffAmt==0B && T002B.1156_40.totalOutputTaxAmt!=T002B.1156_40.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第4栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第5栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "T002B.1156_50.serviceActuallyOffAmt==0B && T002B.1156_50.totalOutputTaxAmt!=T002B.1156_50.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第5栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第7栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "T002B.1156_70.serviceActuallyOffAmt==0B && T002B.1156_70.totalOutputTaxAmt!=T002B.1156_70.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第7栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第9b栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "T002B.1156_100.serviceActuallyOffAmt==0B && T002B.1156_100.totalOutputTaxAmt!=T002B.1156_100.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第9b栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第12栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "T002B.1156_130.serviceActuallyOffAmt==0B && T002B.1156_130.totalOutputTaxAmt!=T002B.1156_130.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第12栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第15栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201904",
+    "expression": "T002B.1156_180.serviceActuallyOffAmt==0B && T002B.1156_180.totalOutputTaxAmt!=T002B.1156_180.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第15栏第12列=0时，第10列必须=第14列"
+    }
+  },
+
+
+  {
+    "comment": " 附表一第2栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "T002B.1081_20.serviceActuallyOffAmt==0B && T002B.1081_20.totalOutputTaxAmt!=T002B.1081_20.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第2栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第4栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "T002B.1081_50.serviceActuallyOffAmt==0B && T002B.1081_50.totalOutputTaxAmt!=T002B.1081_50.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第4栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第5栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "T002B.1081_60.serviceActuallyOffAmt==0B && T002B.1081_60.totalOutputTaxAmt!=T002B.1081_60.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第5栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第7栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "T002B.1081_80.serviceActuallyOffAmt==0B && T002B.1081_80.totalOutputTaxAmt!=T002B.1081_80.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第7栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第9b栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "T002B.1081_110.serviceActuallyOffAmt==0B && T002B.1081_110.totalOutputTaxAmt!=T002B.1081_110.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第9b栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第12栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "T002B.1081_140.serviceActuallyOffAmt==0B && T002B.1081_140.totalOutputTaxAmt!=T002B.1081_140.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第12栏第12列=0时，第10列必须=第14列"
+    }
+  },
+  {
+    "comment": " 附表一第15栏第12列=0时，第10列必须=第14列",
+    "reportId": "T002",
+    "condition": "201805",
+    "expression": "T002B.1081_190.serviceActuallyOffAmt==0B && T002B.1081_190.totalOutputTaxAmt!=T002B.1081_190.afterOffOutputTaxAmt",
+    "area": "",
+    "errorMessage": {
+      "level": 1,
+      "code": "",
+      "message": "附表一第15栏第12列=0时，第10列必须=第14列"
+    }
+  }
+]
